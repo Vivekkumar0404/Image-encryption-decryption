@@ -20,6 +20,7 @@ A secure image encryption and decryption system based on **chaotic maps** and **
 ### . Clone the repository
 
 git clone https://github.com/yourusername/image-encryption-dna-chaos.git
+
 cd image-encryption-dna-chaos
 
 ---
